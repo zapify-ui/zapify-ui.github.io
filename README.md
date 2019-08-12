@@ -1,2 +1,2 @@
-# zapify.github.io
-Official webiste of ZapifyUI
+# Zapify.github.io.
+ZapifyUI documentation website.
